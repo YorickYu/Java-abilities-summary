@@ -12,5 +12,6 @@ xmind素材整理来自 B站三太子敖丙 面试录播
 [Bilibili-程序员面试北大研究生Java岗](https://www.bilibili.com/video/BV1HQ4y1P7hE)
 
 > 20201202 更新：集合
+> 20201207 更新：并发编程相关
 
 ![xmind](https://github.com/YorickYu/Java-abilities-summary/blob/main/images/xmind.png)
