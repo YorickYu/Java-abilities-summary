@@ -1,7 +1,7 @@
 # Java-abilities-summary
 Java知识点总结（部分）
 
-xmind素材整理来自 B站三太子敖丙 面试录播
+**xmind素材整理基础架构来自 `B站三太子敖丙` 面试录播，在这个基础上不断更新，争取覆盖更多Java常见的知识点。**
 
 这个视频很早之前就收藏了
 
@@ -13,5 +13,7 @@ xmind素材整理来自 B站三太子敖丙 面试录播
 
 > 20201202 更新：集合
 > 20201207 更新：并发编程相关
+>
+> 20201217 更新：ThreadLocal
 
 ![xmind](https://github.com/YorickYu/Java-abilities-summary/blob/main/images/xmind.png)
