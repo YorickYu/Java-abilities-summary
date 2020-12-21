@@ -16,5 +16,7 @@ Java知识点总结（部分）
 > 20201207 更新：并发编程相关
 >
 > 20201217 更新：ThreadLocal
+>
+> 20201221 更新：通信工具、Fork/Join框架
 
 ![xmind](https://github.com/YorickYu/Java-abilities-summary/blob/main/images/xmind.png)
