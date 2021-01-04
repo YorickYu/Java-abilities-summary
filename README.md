@@ -18,5 +18,7 @@ Java知识点总结（部分）
 > 20201217 更新：ThreadLocal
 >
 > 20201221 更新：通信工具、Fork/Join框架
+>
+> 20210104 更新：Redis
 
 ![xmind](https://github.com/YorickYu/Java-abilities-summary/blob/main/images/xmind.png)
